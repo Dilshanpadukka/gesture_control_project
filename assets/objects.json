@@ -1,0 +1,22 @@
+{
+    "objects": [
+        {
+            "type": "rectangle",
+            "position": [100, 100],
+            "size": [100, 100],
+            "color": [255, 0, 0]
+        },
+        {
+            "type": "circle",
+            "position": [300, 100],
+            "size": [80, 80],
+            "color": [0, 255, 0]
+        },
+        {
+            "type": "rectangle",
+            "position": [500, 100],
+            "size": [120, 120],
+            "color": [0, 0, 255]
+        }
+    ]
+}
